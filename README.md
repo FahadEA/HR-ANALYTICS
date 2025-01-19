@@ -20,7 +20,10 @@ The HR Analytics Dashboard provides a comprehensive view of employee data, enabl
 
 
 
-https://github.com/user-attachments/assets/ccb6497d-909d-410d-b831-6d37bc6a60e2
+
+
+https://github.com/user-attachments/assets/7338b388-79e9-4441-91e3-5a7bd009dd21
+
 
 
 
